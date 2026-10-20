@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "name": "08 - PUT ReqRes Update User 2 (Fetch)",
+  "request": {
+    "name": "08 - PUT ReqRes Update User 2 (Fetch)",
+    "method": "PUT",
+    "protocol": "http",
+    "url": "https://reqres.in/api/users/2",
+    "queryParams": [],
+    "headerParams": [
+      {
+        "id": "header-8-1",
+        "key": "Content-Type",
+        "value": "application/json",
+        "enabled": true,
+        "show": true,
+        "isApiKey": false
+      }
+    ],
+    "auth": {
+      "type": "none"
+    },
+    "body": "{\n  \"name\": \"Lucas Carvalho\",\n  \"job\": \"Software Developer\"\n}",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

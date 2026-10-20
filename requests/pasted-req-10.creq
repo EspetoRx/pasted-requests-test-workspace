@@ -1,0 +1,36 @@
+{
+  "version": "1.0",
+  "name": "10 - PATCH Httpbin Update Status with Bearer (cURL)",
+  "request": {
+    "name": "10 - PATCH Httpbin Update Status with Bearer (cURL)",
+    "method": "PATCH",
+    "protocol": "http",
+    "url": "https://httpbin.org/patch",
+    "queryParams": [],
+    "headerParams": [
+      {
+        "id": "header-10-1",
+        "key": "Content-Type",
+        "value": "application/json",
+        "enabled": true,
+        "show": true,
+        "isApiKey": false
+      },
+      {
+        "id": "header-10-2",
+        "key": "Authorization",
+        "value": "Bearer token_exemplo_123",
+        "enabled": true,
+        "show": true,
+        "isApiKey": false
+      }
+    ],
+    "auth": {
+      "type": "none"
+    },
+    "body": "{\n  \"status\": \"ativo\"\n}",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

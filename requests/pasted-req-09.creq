@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "name": "09 - PATCH JSONPlaceholder Partial Update Post 1 (Python Requests)",
+  "request": {
+    "name": "09 - PATCH JSONPlaceholder Partial Update Post 1 (Python Requests)",
+    "method": "PATCH",
+    "protocol": "http",
+    "url": "https://jsonplaceholder.typicode.com/posts/1",
+    "queryParams": [],
+    "headerParams": [
+      {
+        "id": "header-9-1",
+        "key": "Content-Type",
+        "value": "application/json",
+        "enabled": true,
+        "show": true,
+        "isApiKey": false
+      }
+    ],
+    "auth": {
+      "type": "none"
+    },
+    "body": "{\n  \"title\": \"Apenas o Título Modificado via PATCH\"\n}",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "13 - HEAD Httpbin Headers (cURL -I)",
+  "request": {
+    "name": "13 - HEAD Httpbin Headers (cURL -I)",
+    "method": "HEAD",
+    "protocol": "http",
+    "url": "https://httpbin.org/get",
+    "queryParams": [],
+    "headerParams": [],
+    "auth": {
+      "type": "none"
+    },
+    "body": "",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

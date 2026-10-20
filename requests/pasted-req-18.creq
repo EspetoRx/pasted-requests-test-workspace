@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "18 - GET Httpbin 500 Server Error (Fetch)",
+  "request": {
+    "name": "18 - GET Httpbin 500 Server Error (Fetch)",
+    "method": "GET",
+    "protocol": "http",
+    "url": "https://httpbin.org/status/500",
+    "queryParams": [],
+    "headerParams": [],
+    "auth": {
+      "type": "none"
+    },
+    "body": "",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

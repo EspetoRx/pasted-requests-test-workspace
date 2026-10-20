@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "11 - DELETE JSONPlaceholder Delete Post 1 (Fetch)",
+  "request": {
+    "name": "11 - DELETE JSONPlaceholder Delete Post 1 (Fetch)",
+    "method": "DELETE",
+    "protocol": "http",
+    "url": "https://jsonplaceholder.typicode.com/posts/1",
+    "queryParams": [],
+    "headerParams": [],
+    "auth": {
+      "type": "none"
+    },
+    "body": "",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

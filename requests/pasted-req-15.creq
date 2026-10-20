@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "15 - OPTIONS Httpbin Allowed Methods (cURL)",
+  "request": {
+    "name": "15 - OPTIONS Httpbin Allowed Methods (cURL)",
+    "method": "OPTIONS",
+    "protocol": "http",
+    "url": "https://httpbin.org/get",
+    "queryParams": [],
+    "headerParams": [],
+    "auth": {
+      "type": "none"
+    },
+    "body": "",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

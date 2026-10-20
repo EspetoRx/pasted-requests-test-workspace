@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "name": "07 - PUT JSONPlaceholder Update Post 1 (cURL)",
+  "request": {
+    "name": "07 - PUT JSONPlaceholder Update Post 1 (cURL)",
+    "method": "PUT",
+    "protocol": "http",
+    "url": "https://jsonplaceholder.typicode.com/posts/1",
+    "queryParams": [],
+    "headerParams": [
+      {
+        "id": "header-7-1",
+        "key": "Content-Type",
+        "value": "application/json; charset=UTF-8",
+        "enabled": true,
+        "show": true,
+        "isApiKey": false
+      }
+    ],
+    "auth": {
+      "type": "none"
+    },
+    "body": "{\n  \"id\": 1,\n  \"title\": \"Título Atualizado Total\",\n  \"body\": \"Conteúdo completamente reescrito.\",\n  \"userId\": 1\n}",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

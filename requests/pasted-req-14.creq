@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "14 - HEAD Httpbin Headers (Go net/http)",
+  "request": {
+    "name": "14 - HEAD Httpbin Headers (Go net/http)",
+    "method": "HEAD",
+    "protocol": "http",
+    "url": "https://httpbin.org/get",
+    "queryParams": [],
+    "headerParams": [],
+    "auth": {
+      "type": "none"
+    },
+    "body": "",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

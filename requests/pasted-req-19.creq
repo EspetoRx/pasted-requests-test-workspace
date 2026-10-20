@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "name": "19 - GET Httpbin Delay (cURL)",
+  "request": {
+    "name": "19 - GET Httpbin Delay (cURL)",
+    "method": "GET",
+    "protocol": "http",
+    "url": "https://httpbin.org/delay/2",
+    "queryParams": [],
+    "headerParams": [
+      {
+        "id": "header-19-1",
+        "key": "Accept",
+        "value": "application/json",
+        "enabled": true,
+        "show": true,
+        "isApiKey": false
+      }
+    ],
+    "auth": {
+      "type": "none"
+    },
+    "body": "",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

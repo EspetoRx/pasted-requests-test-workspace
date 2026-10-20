@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "name": "06 - POST ReqRes Register (Python Requests)",
+  "request": {
+    "name": "06 - POST ReqRes Register (Python Requests)",
+    "method": "POST",
+    "protocol": "http",
+    "url": "https://reqres.in/api/register",
+    "queryParams": [],
+    "headerParams": [
+      {
+        "id": "header-6-1",
+        "key": "Content-Type",
+        "value": "application/json",
+        "enabled": true,
+        "show": true,
+        "isApiKey": false
+      }
+    ],
+    "auth": {
+      "type": "none"
+    },
+    "body": "{\n  \"email\": \"eve.holt@reqres.in\",\n  \"password\": \"password123\"\n}",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

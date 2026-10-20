@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "20 - GET Httpbin Gzip Encoded (Python Requests)",
+  "request": {
+    "name": "20 - GET Httpbin Gzip Encoded (Python Requests)",
+    "method": "GET",
+    "protocol": "http",
+    "url": "https://httpbin.org/gzip",
+    "queryParams": [],
+    "headerParams": [],
+    "auth": {
+      "type": "none"
+    },
+    "body": "",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

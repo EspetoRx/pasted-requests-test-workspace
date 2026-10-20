@@ -1,0 +1,141 @@
+{
+  "id": "ws-1792514123049-ygkzh",
+  "name": "Pasted Requests Test Workspace",
+  "folders": [
+    {
+      "id": "folder-pasted-requests",
+      "name": "Coleção de Requisições Coladas",
+      "parentId": null,
+      "order": 0
+    }
+  ],
+  "requests": [],
+  "flows": [],
+  "environments": [],
+  "activeEnvId": null,
+  "projectVersion": 1,
+  "requestFiles": [
+    {
+      "id": "pasted-req-01",
+      "name": "01 - GET JSONPlaceholder User 1 (cURL)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-01.creq"
+    },
+    {
+      "id": "pasted-req-02",
+      "name": "02 - GET Httpbin Parameters (Fetch)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-02.creq"
+    },
+    {
+      "id": "pasted-req-03",
+      "name": "03 - GET Cat Fact (Python Requests)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-03.creq"
+    },
+    {
+      "id": "pasted-req-04",
+      "name": "04 - POST JSONPlaceholder Create Post (Axios)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-04.creq"
+    },
+    {
+      "id": "pasted-req-05",
+      "name": "05 - POST Httpbin Form URL-Encoded (PHP cURL)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-05.creq"
+    },
+    {
+      "id": "pasted-req-06",
+      "name": "06 - POST ReqRes Register (Python Requests)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-06.creq"
+    },
+    {
+      "id": "pasted-req-07",
+      "name": "07 - PUT JSONPlaceholder Update Post 1 (cURL)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-07.creq"
+    },
+    {
+      "id": "pasted-req-08",
+      "name": "08 - PUT ReqRes Update User 2 (Fetch)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-08.creq"
+    },
+    {
+      "id": "pasted-req-09",
+      "name": "09 - PATCH JSONPlaceholder Partial Update Post 1 (Python Requests)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-09.creq"
+    },
+    {
+      "id": "pasted-req-10",
+      "name": "10 - PATCH Httpbin Update Status with Bearer (cURL)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-10.creq"
+    },
+    {
+      "id": "pasted-req-11",
+      "name": "11 - DELETE JSONPlaceholder Delete Post 1 (Fetch)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-11.creq"
+    },
+    {
+      "id": "pasted-req-12",
+      "name": "12 - DELETE ReqRes Delete User 2 (Python Requests)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-12.creq"
+    },
+    {
+      "id": "pasted-req-13",
+      "name": "13 - HEAD Httpbin Headers (cURL -I)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-13.creq"
+    },
+    {
+      "id": "pasted-req-14",
+      "name": "14 - HEAD Httpbin Headers (Go net/http)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-14.creq"
+    },
+    {
+      "id": "pasted-req-15",
+      "name": "15 - OPTIONS Httpbin Allowed Methods (cURL)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-15.creq"
+    },
+    {
+      "id": "pasted-req-16",
+      "name": "16 - OPTIONS Httpbin XML Allowed Methods (Fetch)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-16.creq"
+    },
+    {
+      "id": "pasted-req-17",
+      "name": "17 - GET Httpbin 404 Not Found (Python Requests)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-17.creq"
+    },
+    {
+      "id": "pasted-req-18",
+      "name": "18 - GET Httpbin 500 Server Error (Fetch)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-18.creq"
+    },
+    {
+      "id": "pasted-req-19",
+      "name": "19 - GET Httpbin Delay (cURL)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-19.creq"
+    },
+    {
+      "id": "pasted-req-20",
+      "name": "20 - GET Httpbin Gzip Encoded (Python Requests)",
+      "folderId": "folder-pasted-requests",
+      "relativePath": "requests/pasted-req-20.creq"
+    }
+  ],
+  "environmentFiles": [],
+  "flowFiles": []
+}

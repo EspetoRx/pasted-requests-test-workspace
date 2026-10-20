@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "name": "04 - POST JSONPlaceholder Create Post (Axios)",
+  "request": {
+    "name": "04 - POST JSONPlaceholder Create Post (Axios)",
+    "method": "POST",
+    "protocol": "http",
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "queryParams": [],
+    "headerParams": [
+      {
+        "id": "header-4-1",
+        "key": "Content-Type",
+        "value": "application/json; charset=UTF-8",
+        "enabled": true,
+        "show": true,
+        "isApiKey": false
+      }
+    ],
+    "auth": {
+      "type": "none"
+    },
+    "body": "{\n  \"title\": \"Teste de API\",\n  \"body\": \"Este é o corpo da postagem enviada pelo testador.\",\n  \"userId\": 42\n}",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "12 - DELETE ReqRes Delete User 2 (Python Requests)",
+  "request": {
+    "name": "12 - DELETE ReqRes Delete User 2 (Python Requests)",
+    "method": "DELETE",
+    "protocol": "http",
+    "url": "https://reqres.in/api/users/2",
+    "queryParams": [],
+    "headerParams": [],
+    "auth": {
+      "type": "none"
+    },
+    "body": "",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "16 - OPTIONS Httpbin XML Allowed Methods (Fetch)",
+  "request": {
+    "name": "16 - OPTIONS Httpbin XML Allowed Methods (Fetch)",
+    "method": "OPTIONS",
+    "protocol": "http",
+    "url": "https://httpbin.org/xml",
+    "queryParams": [],
+    "headerParams": [],
+    "auth": {
+      "type": "none"
+    },
+    "body": "",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

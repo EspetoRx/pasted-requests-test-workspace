@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "name": "05 - POST Httpbin Form URL-Encoded (PHP cURL)",
+  "request": {
+    "name": "05 - POST Httpbin Form URL-Encoded (PHP cURL)",
+    "method": "POST",
+    "protocol": "http",
+    "url": "https://httpbin.org/post",
+    "queryParams": [],
+    "headerParams": [
+      {
+        "id": "header-5-1",
+        "key": "Content-Type",
+        "value": "application/x-www-form-urlencoded",
+        "enabled": true,
+        "show": true,
+        "isApiKey": false
+      }
+    ],
+    "auth": {
+      "type": "none"
+    },
+    "body": "usuario=lucas&acao=teste_formulario",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}

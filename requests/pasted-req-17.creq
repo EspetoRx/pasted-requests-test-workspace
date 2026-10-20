@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "17 - GET Httpbin 404 Not Found (Python Requests)",
+  "request": {
+    "name": "17 - GET Httpbin 404 Not Found (Python Requests)",
+    "method": "GET",
+    "protocol": "http",
+    "url": "https://httpbin.org/status/404",
+    "queryParams": [],
+    "headerParams": [],
+    "auth": {
+      "type": "none"
+    },
+    "body": "",
+    "preRequestScript": "",
+    "testScript": "",
+    "postRequestScript": ""
+  }
+}
